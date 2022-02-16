@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="FeedbackServlet" method="post">
-Q1:How Was Your Experience with us today? <input type= "text" name="question1">
+Q1:Name <input type= "text" name="question1">
 Q2:Did You Find The Information Useful? <input type= "text" name= "question2">
 Q3:If Yes,Why? If no, Give Us Feedback on how we can improve? <input type= "text" name="question3">
 Q4: Out of 3, Rate Your Experience With Us(1-good, 2-OK,i guess, 3- Not good) <select name= "question4">
