@@ -22,7 +22,7 @@ ul {
   <li><a href="Why.jsp">Why: Why Is CyberSecurity Important and What are the diffrent cyber threats available?</a></li>
   <li><a href="How.jsp">How: How can you better Secure your Devices from CyberSecurity Threats?</a></li>
   <li><a href="feedback.jsp">FeedBack Form</a></li>
-  <li><a href="FeedbackListServlet">FeedBack Management</a></li>
+  <li><a href="FeedbackListServlet/dashboard">FeedBack Management</a></li>
   
 </ul> 
 </body>
